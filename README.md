@@ -10,7 +10,6 @@ Modern transit apps rely on continuous data streams, including GPS coordinates f
 
 2. Predictive Analytics for Delay Estimation
 Traditional apps calculate Estimated Time of Arrival (ETA) using simple distance-over-speed formulas. AI upgrades this by utilizing regression models. These models ingest historical data—such as weather conditions, time of day, and past transit delays—to predict future disruptions before they are officially reported.
-+1
 
 3. Dynamic Route Optimization
 At the core of any transit app are graph traversal algorithms (such as Dijkstra’s or A* Search), which IT students often encounter early in their studies. AI enhances these classic algorithms by assigning dynamic "weights" to the graph edges. Instead of a fixed travel time between Station A and Station B, the AI adjusts the edge weight in real-time based on predicted crowd density or sudden service halts, instantly recalculating the most efficient path for the user.
